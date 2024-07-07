@@ -1,0 +1,40 @@
+.search-container {
+  width: 250px;
+  margin: 20px;
+}
+
+.card {
+  padding: 2em;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.main-container .card {
+  padding: 0;
+  margin: 10px 0px;
+}
+
+.aside {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+
+.aside button {
+  margin: 20px 0;
+}
+
+.wrapper-site {
+  display: flex;
+}
+
+main{
+  width: 1600px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
